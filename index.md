@@ -1,26 +1,12 @@
-# This is h1 heading
-## This is H2 heading
-###### This is h6 heading
-i have added heading 
+# Starting with github markdown
+## Starting with github markdown
+### Starting with github markdown
+#### Starting with github markdown
+##### Starting with github markdown
+###### Starting with github markdown
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-```
-C
-#include <stdio.h>
-void main()
-{
-  printf("hello world");
-}
-```
-```
-python
-print("hello world")
-```
-```
-html
-<html>
-<head>
-<body> <p> helloooo </p> </body>
-</head> </html>
+``` javascript
+var myVar = "Hello, world";
 ```
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
